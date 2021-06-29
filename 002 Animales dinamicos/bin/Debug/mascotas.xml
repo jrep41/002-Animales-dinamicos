@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mascotas>
+ <MASCOTA>
+  <NOMBRE>Misi</NOMBRE>
+  <COLOR>negro</COLOR>
+  <FECHA>01/04/2000 15:25:42</FECHA>
+  <FOTO>*.jpg</FOTO>
+ </MASCOTA>
+</mascotas>

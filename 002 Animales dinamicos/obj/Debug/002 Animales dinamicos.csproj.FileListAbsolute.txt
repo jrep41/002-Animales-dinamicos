@@ -1,0 +1,10 @@
+C:\Users\joser\Downloads\source\repos\002 Animales dinamicos\002 Animales dinamicos\bin\Debug\002 Animales dinamicos.exe.config
+C:\Users\joser\Downloads\source\repos\002 Animales dinamicos\002 Animales dinamicos\bin\Debug\002 Animales dinamicos.exe
+C:\Users\joser\Downloads\source\repos\002 Animales dinamicos\002 Animales dinamicos\bin\Debug\002 Animales dinamicos.pdb
+C:\Users\joser\Downloads\source\repos\002 Animales dinamicos\002 Animales dinamicos\obj\Debug\002 Animales dinamicos.csproj.AssemblyReference.cache
+C:\Users\joser\Downloads\source\repos\002 Animales dinamicos\002 Animales dinamicos\obj\Debug\_002_Animales_dinamicos.Form1.resources
+C:\Users\joser\Downloads\source\repos\002 Animales dinamicos\002 Animales dinamicos\obj\Debug\_002_Animales_dinamicos.Properties.Resources.resources
+C:\Users\joser\Downloads\source\repos\002 Animales dinamicos\002 Animales dinamicos\obj\Debug\002 Animales dinamicos.csproj.GenerateResource.cache
+C:\Users\joser\Downloads\source\repos\002 Animales dinamicos\002 Animales dinamicos\obj\Debug\002 Animales dinamicos.csproj.CoreCompileInputs.cache
+C:\Users\joser\Downloads\source\repos\002 Animales dinamicos\002 Animales dinamicos\obj\Debug\002 Animales dinamicos.exe
+C:\Users\joser\Downloads\source\repos\002 Animales dinamicos\002 Animales dinamicos\obj\Debug\002 Animales dinamicos.pdb
